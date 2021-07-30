@@ -1,0 +1,10 @@
+theme: "minima"
+markdown: "kramdown"
+baseurl: "avid"
+name: "GHD Tools Wiki"
+description: "Documentation for the GHD ArcGIS Pro Tools."
+#plugins:
+#  - jekyll-relative-links
+#relative_links:
+#  enabled: true
+#  collections: true
