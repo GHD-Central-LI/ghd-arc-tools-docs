@@ -1,6 +1,6 @@
 theme: "minima"
 markdown: "kramdown"
-baseurl: "avid"
+baseurl: "ghd-arc-tools/docs"
 name: "GHD Tools Wiki"
 description: "Documentation for the GHD ArcGIS Pro Tools."
 #plugins:
